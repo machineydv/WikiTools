@@ -1,5 +1,6 @@
 # WikiTools
 ![Travis Build](https://api.travis-ci.com/machinexa2/WikiTools.svg?branch=master)
+ - :warning: Before diving into my tools, read this: [NUKED](https://github.com/machineydv/machineydv/blob/master/NUKED.md)
 
 ## Description
 ### WikiFiller
